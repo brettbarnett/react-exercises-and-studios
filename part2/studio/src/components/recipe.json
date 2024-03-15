@@ -13,6 +13,21 @@
        "heavy cream",
        "milk"
      ]
-   }
+   },
+   {
+    "name": "Beef Tacos",
+    "author": "Yumna Jawad",
+    "description": "These Ground Beef Tacos are filled with juicy flavorful taco meat made with my homemade taco seasoning - it's an easy weeknight recipe for the whole family!",
+    "website": "https://feelgoodfoodie.net/recipe/ground-beef-tacos-napa-cabbage-guacamole/",
+    "recipeImage": "https://feelgoodfoodie.net/wp-content/uploads/2017/04/Ground-Beef-Tacos-9.jpg",
+    "authorImage": "https://feelgoodfoodie.net/wp-content/uploads/2023/11/YumnaJawad-FeelGoodFoodie-14.jpg",
+    "ingredients": [
+      "ground beef",
+      "cheese",
+      "sour cream",
+      "taco sauce",
+      "minced onion"
+    ]
+  }
  ]
  
